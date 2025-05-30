@@ -70,8 +70,8 @@ cd BookStore
 ## Usage
 
 - Register as a new user or log in with your credentials.
-- Browse available books and add them to your cart.
-- Administrators can log in and manage books, orders, and users via the admin panel.
+- Browse available books and checkout.
+- Administrators can log in and manage books.
 
 ## Contributing
 
